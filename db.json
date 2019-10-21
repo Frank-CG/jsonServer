@@ -36,7 +36,7 @@
         ]
     },
 
-    "customerViews" : {[
+    "customerViews" : { "customers" : [
     {
         "id": "a7ad4564-0a7f-44c9-aa27-276c9540cac8",
         "customerId": 284,
