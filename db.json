@@ -34,5 +34,129 @@
                 "thumbnailUrl" : ""
             }
         ]
+    },
+
+    "customerViews" : [
+    {
+        "id": "a7ad4564-0a7f-44c9-aa27-276c9540cac8",
+        "customerId": 284,
+        "customerName": "Arkansas House",
+        "customerType": null,
+        "sights": [
+            {
+                "sightName": "Arkansas House",
+                "viewId": "195264487"
+            }
+        ],
+        "isVaild": true
+    },
+    {
+        "id": "d7eec0ed-1071-4919-9cfd-6dc0ceff6b25",
+        "customerId": 304,
+        "customerName": "Virginia House",
+        "customerType": "",
+        "sights": [
+            {
+                "sightName": "Virginia House",
+                "viewId": "183546356"
+            }
+        ],
+        "isVaild": true
+    },
+    {
+        "id": "9340d25e-b82e-443a-8674-0a4989b85ad6",
+        "customerId": 309,
+        "customerName": "Montana",
+        "customerType": "",
+        "sights": [
+            {
+                "sightName": "Montana",
+                "viewId": "182592381"
+            }
+        ],
+        "isVaild": true
+    },
+    {
+        "id": "7b5f9063-3bbc-4a83-bc5d-bfe26ed6ce79",
+        "customerId": 316,
+        "customerName": "Arkansas Senate",
+        "customerType": "",
+        "sights": [
+            {
+                "sightName": "Arkansas Senate",
+                "viewId": "189628411"
+            }
+        ],
+        "isVaild": true
+    },
+    {
+        "id": "12b2ac90-4b06-4c2f-9813-fe3b1e37d566",
+        "customerId": 200,
+        "customerName": "West Vancouver",
+        "customerType": "",
+        "sights": [
+            {
+                "sightName": "West Vancouver",
+                "viewId": "197216536"
+            }
+        ],
+        "isVaild": true
+    },
+    {
+        "id": "b59f1d07-7188-46a8-a502-ada6d83732fc",
+        "customerId": 306,
+        "customerName": "Greenstone",
+        "customerType": "",
+        "sights": [
+            {
+                "sightName": "Greenstone",
+                "viewId": "193726202"
+            }
+        ],
+        "isVaild": true
+    },
+    {
+        "id": "c0294ac0-254c-49b8-af2d-2e4d307831f4",
+        "customerId": 307,
+        "customerName": "Newfoundland",
+        "customerType": "",
+        "sights": [
+            {
+                "sightName": "Newfoundland",
+                "viewId": "183669616"
+            }
+        ],
+        "isVaild": true
+    },
+    {
+        "id": "f6870a07-1c04-4097-b821-570a543694bb",
+        "customerId": 313,
+        "customerName": "Alberta",
+        "customerType": "",
+        "sights": [
+            {
+                "sightName": "Alberta",
+                "viewId": "183158925"
+            }
+        ],
+        "isVaild": true
+    },
+    {
+        "id": "b4343cb4-2692-40a5-9e4a-2469f612cc60",
+        "customerId": 999,
+        "customerName": "SliqTest-999",
+        "customerType": null,
+        "sights": [
+            {
+                "sightName": "Sliq Test 1",
+                "viewId": "197216536"
+            },
+            {
+                "sightName": "Sliq Test 2",
+                "viewId": "193726202"
+            }
+        ],
+        "isVaild": true
     }
+]
 }
